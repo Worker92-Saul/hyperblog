@@ -24,6 +24,7 @@ body {
     font-size: 20px;
 }
 
-#post{
+#post p{
     padding: 1em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow';
 }
